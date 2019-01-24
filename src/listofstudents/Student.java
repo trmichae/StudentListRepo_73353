@@ -14,6 +14,15 @@ public class Student {
   private String name;
   private int id;
   private String DoB;
+  private int id2;
+
+    public int getId2() {
+        return id2;
+    }
+
+    public void setId2(int id2) {
+        this.id2 = id2;
+    }
   
   
   
